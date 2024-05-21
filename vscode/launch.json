@@ -8,12 +8,11 @@
             "name": "Django",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/manage.py",
+            "module": "dir_1.manage", // Replace with your django module path 
             "args": [
                 "runserver",
                 "8000"
             ],
-            "django": true,
             "justMyCode": false
         },
         {
