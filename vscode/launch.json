@@ -13,7 +13,8 @@
                 "runserver",
                 "8000"
             ],
-            "justMyCode": false
+            "console": "integratedTerminal",
+            "justMyCode": false,
         },
         {
             "name": "Celery",
